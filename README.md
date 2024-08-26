@@ -1,7 +1,7 @@
-# caseload_forecasting
-Caseload forecasting project. For sharing scripts and documentation. For storing readings. 
+# Caseload Forecasting Project
+For sharing data, scripts, and documentation. For storing readings and other resources. 
 
-<h3>Links</h1>
+<h3>Links</h3>
 <em><strong>Regression</strong></em>
 <br>
 <a href="https://statsandr.com/blog/multiple-linear-regression-made-simple/" target="_blank">Multiple linear regression made simple</a>
