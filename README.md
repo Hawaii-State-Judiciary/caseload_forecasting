@@ -5,11 +5,11 @@ For sharing data, scripts, and documentation. For storing readings and other res
 
 ### Links
 ***Regression***
-<br>
-[Multiple linear regression made simple from the Stats and R blog](https://statsandr.com/blog/multiple-linear-regression-made-simple/){:target="_blank" rel="noopener"}
-<br>
+
+[Multiple linear regression made simple from the Stats and R blog](https://statsandr.com/blog/multiple-linear-regression-made-simple/)
+
 <a href="https://learningstatisticswithr.com/book/regression.html" target="_blank">Chapter 15 Linear regression in <em>Learning Statistics with R</em></a>
-<br>
+
 <a href="https://mgimond.github.io/Stats-in-R/regression.html" target="_blank">"Regression analysis (OLS method)" from the Basic stats explained (in R) blog</a>
 <br>
 <a href="https://murraylax.org/rtutorials/#introregression" target="_blank">Chapter 5 Introduction to Regression in <em>R Tutorials for Applied Regression</em></a>
