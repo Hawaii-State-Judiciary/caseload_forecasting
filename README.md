@@ -1,5 +1,7 @@
 # Caseload Forecasting Project
 For sharing data, scripts, and documentation. For storing readings and other resources. 
+<h3>Documentation</h3>
+[placeholder for documentation. Use this space to explain how to use scripts and data so that processes are reproducible.]
 
 <h3>Links</h3>
 <em><strong>Regression</strong></em>
