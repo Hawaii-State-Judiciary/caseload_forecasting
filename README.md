@@ -6,7 +6,7 @@ For sharing data, scripts, and documentation. For storing readings and other res
 ### Links
 ***Regression***
 <br>
-[Multiple linear regression made simple from the Stats and R blog](https://statsandr.com/blog/multiple-linear-regression-made-simple/){:target="_blank"}
+[Multiple linear regression made simple from the Stats and R blog](https://statsandr.com/blog/multiple-linear-regression-made-simple/){:target="_blank" rel="noopener"}
 <br>
 <a href="https://learningstatisticswithr.com/book/regression.html" target="_blank">Chapter 15 Linear regression in <em>Learning Statistics with R</em></a>
 <br>
