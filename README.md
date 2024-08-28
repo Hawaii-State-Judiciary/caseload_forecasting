@@ -10,3 +10,5 @@ For sharing data, scripts, and documentation. For storing readings and other res
 <a href="https://mgimond.github.io/Stats-in-R/regression.html" target="_blank">"Regression analysis (OLS method)" from the Basic stats explained (in R) blog</a>  
 <a href="https://murraylax.org/rtutorials/#introregression" target="_blank">"Chapter 5 Introduction to Regression" in *R Tutorials for Applied Regression*</a>  
 <a href="https://avehtari.github.io/ROS-Examples/" target="_blank">*Regression and Other Stories* by Andrew Gelman, Jennifer Hill, Aki Vehtari</a>  
+<a href="https://openintro-ims.netlify.app/regression-modeling" target="_blank">"Regression modeling" section in *Introduction to Modern Statistics (2e)*</a>  
+
