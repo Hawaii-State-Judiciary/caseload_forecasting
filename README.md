@@ -9,8 +9,8 @@ The overarching goal of this project is to develop accurate caseload projections
 * Assess the accuracy of these models on a monthly, quarterly, and yearly basis and refine as needed.
 * Apply these models to forecast caseloads, case age, and other variables for the purpose of planning.
 
-There are a number of proximate, concrete project goals. They include the following:
-***For the Judiciary's Multi-year Program and Financial Plan (PFP)***
+There are a number of proximate, concrete project goals. They include the following:  
+***The Judiciary's Multi-year Program and Financial Plan (PFP)***
 * Generate 5 year projections for caseloads in each ciruit and in the appellate courts.
 * Generate 5-year projections for time to disposition in the trial courts and time to decision in appellate courts.
 
