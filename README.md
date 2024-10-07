@@ -6,9 +6,9 @@ For sharing data, scripts, and documentation. For storing readings and other res
 ### Links
 
 ***Caseload Forecasting***
-<a href="https://www.ncsc.org/consulting-and-research/areas-of-expertise/court-management-and-performance/caseflow-management/data-and-performance-management/backlog-reduction-simulator" target="_blank">Backlog Reduction Simulator by NCSC</a>
-<a href="https://www.ncsc.org/consulting-and-research/areas-of-expertise/courthouse-planning-and-security/planning/planning-and-design-guide/topics-a-h/assessing-needs" target="_blank">Assessing Needs and Caseload Forecasting by NCSC</a>
-<a href="https://www.ncsc.org/__data/assets/pdf_file/0034/75589/Recommendations-for-WCL-in-Pandemic.pdf" target="_blank">Recommendations for Using Weighted Caseload Models in the Pandemic by NCSC</a>
+<a href="https://www.ncsc.org/consulting-and-research/areas-of-expertise/court-management-and-performance/caseflow-management/data-and-performance-management/backlog-reduction-simulator" target="_blank">Backlog Reduction Simulator by NCSC</a>  
+<a href="https://www.ncsc.org/consulting-and-research/areas-of-expertise/courthouse-planning-and-security/planning/planning-and-design-guide/topics-a-h/assessing-needs" target="_blank">Assessing Needs and Caseload Forecasting by NCSC</a>  
+<a href="https://www.ncsc.org/__data/assets/pdf_file/0034/75589/Recommendations-for-WCL-in-Pandemic.pdf" target="_blank">Recommendations for Using Weighted Caseload Models in the Pandemic by NCSC</a>  
 
 ***Regression***  
 ["Multiple linear regression made simple" from the Stats and R blog](https://statsandr.com/blog/multiple-linear-regression-made-simple/)  
