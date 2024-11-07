@@ -15,12 +15,12 @@ There are a number of proximate, concrete project goals. They include the follow
 * Generate 5-year projections for time to disposition in the trial courts and time to decision in appellate courts.
 
 ### Documentation
-[placeholder for documentation. Use this space to explain how to use scripts and data so that processes are reproducible.]
+Documentation can be found on the [wiki](https://github.com/adamcohen3/caseload_forecasting/wiki).
 
-#### Data
+### Data
 [Use this space to explain how data are organized.]
 
-#### Scripts
+### Scripts
 [Use this space to explain how scripts are organized.]
 
 ### Links
