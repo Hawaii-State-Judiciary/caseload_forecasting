@@ -2928,3 +2928,140 @@ Year,Circuit,Type of Action,Pending at Start,Filed,Total Caseload,Terminated,Pen
 2022,Fifth Circuit,Foster Custody,36.0,13.0,49.0,22.0,27.0
 2022,Fifth Circuit,Permanent Custody,39.0,4.0,43.0,23.0,20.0
 2022,Fifth Circuit,Other Status,53.0,98.0,151.0,55.0,96.0
+2014,First Circuit,Case Type,,,,,
+2014,First Circuit,TOTAL CASES,9112.0,17343.0,26455.0,15498.0,10957.0
+2014,First Circuit,Marital Actions and Proceedings,,,,,
+2014,First Circuit,Divorce,2801.0,3819.0,6620.0,3064.0,3556.0
+2014,First Circuit,Annulment,5.0,16.0,21.0,7.0,14.0
+2014,First Circuit,Separation,10.0,5.0,15.0,2.0,13.0
+2014,First Circuit,Total Marital Actions,2816.0,3840.0,6656.0,3073.0,3583.0
+2014,First Circuit,Civil Union Actions and Proceedings,2.0,10.0,12.0,6.0,6.0
+2014,First Circuit,Uniform Interstate Family Support,80.0,279.0,359.0,109.0,250.0
+2014,First Circuit,Adoption Proceedings,204.0,261.0,465.0,137.0,328.0
+2014,First Circuit,Parental Proceedings,1149.0,1355.0,2504.0,985.0,1519.0
+2014,First Circuit,Domestic Abuse Protective Orders (Ch. 586),7.0,2882.0,2889.0,2881.0,8.0
+2014,First Circuit,Miscellaneous Proceedings,,,,,
+2014,First Circuit,Hospital Admission,146.0,364.0,510.0,308.0,202.0
+2014,First Circuit,Habeas Corpus,2.0,4.0,6.0,1.0,5.0
+2014,First Circuit,Civil,323.0,1144.0,1467.0,1052.0,415.0
+2014,First Circuit,Guardianship of the Person,175.0,338.0,513.0,118.0,395.0
+2014,First Circuit,Other Miscellaneous,17.0,5.0,22.0,2.0,20.0
+2014,First Circuit,Criminal Actions,1480.0,1705.0,3185.0,1502.0,1683.0
+2014,First Circuit,Childrenâ€™s Referrals,,,,,
+2014,First Circuit,Law Violation,886.0,1962.0,2848.0,2137.0,711.0
+2014,First Circuit,Traffic,23.0,34.0,57.0,42.0,15.0
+2014,First Circuit,Status Offense,1177.0,2345.0,3522.0,2367.0,1155.0
+2014,First Circuit,Abuse and Neglect,593.0,428.0,1021.0,394.0,627.0
+2014,First Circuit,Other Childrenâ€™s Referral,32.0,387.0,419.0,382.0,37.0
+2014,First Circuit,Children on Status,,,,,
+2014,First Circuit,Probation,913.0,177.0,1090.0,213.0,877.0
+2014,First Circuit,Protective Supervision,321.0,54.0,375.0,86.0,289.0
+2014,First Circuit,Family Supervision,85.0,54.0,139.0,21.0,118.0
+2014,First Circuit,Foster Custody,568.0,308.0,876.0,100.0,776.0
+2014,First Circuit,Permanent Custody,111.0,95.0,206.0,103.0,103.0
+2014,First Circuit,Other Status,245.0,233.0,478.0,207.0,271.0
+2014,Second Circuit,Case Type,,,,,
+2014,Second Circuit,TOTAL CASES,3661.0,4005.0,7666.0,4041.0,3625.0
+2014,Second Circuit,Marital Actions and Proceedings,,,,,
+2014,Second Circuit,Divorce,421.0,544.0,965.0,513.0,452.0
+2014,Second Circuit,Annulment,1.0,1.0,2.0,2.0,
+2014,Second Circuit,Separation,4.0,4.0,8.0,1.0,2.0
+2014,Second Circuit,Total Marital Actions,426.0,549.0,975.0,514.0,461.0
+2014,Second Circuit,Civil Union Actions and Proceedings,2.0,1.0,3.0,1.0,2.0
+2014,Second Circuit,Uniform Interstate Family Support,14.0,77.0,91.0,84.0,7.0
+2014,Second Circuit,Adoption Proceedings,33.0,43.0,76.0,37.0,39.0
+2014,Second Circuit,Parental Proceedings,427.0,225.0,652.0,147.0,505.0
+2014,Second Circuit,Domestic Abuse Protective Orders (Ch. 586),48.0,762.0,810.0,760.0,50.0
+2014,Second Circuit,Miscellaneous Proceedings,,,,,
+2014,Second Circuit,Hospital Admission,44.0,46.0,90.0,40.0,50.0
+2014,Second Circuit,Habeas Corpus,,,,,
+2014,Second Circuit,Civil,20.0,166.0,186.0,149.0,37.0
+2014,Second Circuit,Guardianship of the Person,50.0,54.0,104.0,50.0,54.0
+2014,Second Circuit,Other Miscellaneous,2.0,2.0,4.0,1.0,1.0
+2014,Second Circuit,Total Miscellaneous Proceedings,116.0,266.0,382.0,240.0,142.0
+2014,Second Circuit,Criminal Actions,340.0,539.0,879.0,571.0,308.0
+2014,Second Circuit,Childrenâ€™s Referrals,,,,,
+2014,Second Circuit,Law Violation,1044.0,619.0,1663.0,703.0,960.0
+2014,Second Circuit,Traffic,234.0,107.0,341.0,125.0,216.0
+2014,Second Circuit,Status Offense,835.0,620.0,1455.0,672.0,783.0
+2014,Second Circuit,Abuse and Neglect,116.0,156.0,272.0,146.0,126.0
+2014,Second Circuit,Other Childrenâ€™s Referral,26.0,41.0,67.0,41.0,26.0
+2014,Second Circuit,Total Childrenâ€™s Referrals,2255.0,1543.0,3798.0,1687.0,2111.0
+2014,Second Circuit,Children on Status,,,,,
+2014,Second Circuit,Probation,186.0,44.0,230.0,55.0,175.0
+2014,Second Circuit,Protective Supervision,133.0,64.0,197.0,74.0,153.0
+2014,Second Circuit,Family Supervision,40.0,128.0,168.0,43.0,125.0
+2014,Second Circuit,Foster Custody,121.0,126.0,247.0,108.0,139.0
+2014,Second Circuit,Permanent Custody,19.0,22.0,41.0,25.0,16.0
+2014,Second Circuit,Other Status,112.0,112.0,224.0,108.0,47.0
+2014,Second Circuit,Total Children on Status,512.0,496.0,1008.0,451.0,557.0
+2014,Third Circuit,Case Type,,,,,
+2014,Third Circuit,TOTAL CASES,5390.0,6120.0,11510.0,5168.0,6342.0
+2014,Third Circuit,Marital Actions and Proceedings,,,,,
+2014,Third Circuit,Divorce,955.0,631.0,1586.0,607.0,979.0
+2014,Third Circuit,Annulment,2.0,,2.0,,
+2014,Third Circuit,Separation,3.0,1.0,4.0,1.0,3.0
+2014,Third Circuit,Total Marital Actions,960.0,632.0,1592.0,608.0,984.0
+2014,Third Circuit,Civil Union Actions and Proceedings,1.0,3.0,4.0,3.0,1.0
+2014,Third Circuit,Uniform Interstate Family Support,111.0,93.0,204.0,72.0,132.0
+2014,Third Circuit,Adoption Proceedings,35.0,40.0,75.0,29.0,46.0
+2014,Third Circuit,Parental Proceedings,857.0,379.0,1236.0,303.0,933.0
+2014,Third Circuit,Domestic Abuse Protective Orders (Ch. 586),365.0,1375.0,1740.0,454.0,1286.0
+2014,Third Circuit,Miscellaneous Proceedings,,,,,
+2014,Third Circuit,Hospital Admission,161.0,60.0,221.0,15.0,206.0
+2014,Third Circuit,Habeas Corpus,,,,,
+2014,Third Circuit,Civil,219.0,27.0,246.0,9.0,237.0
+2014,Third Circuit,Guardianship of the Person,155.0,65.0,220.0,25.0,195.0
+2014,Third Circuit,Other Miscellaneous,20.0,2.0,22.0,2.0,20.0
+2014,Third Circuit,Total Miscellaneous Proceedings,555.0,154.0,709.0,51.0,658.0
+2014,Third Circuit,Criminal Actions,1343.0,720.0,2063.0,640.0,1423.0
+2014,Third Circuit,Childrenâ€™s Referrals,,,,,
+2014,Third Circuit,Law Violation,353.0,1344.0,1697.0,1506.0,191.0
+2014,Third Circuit,Traffic,29.0,43.0,72.0,43.0,29.0
+2014,Third Circuit,Status Offense,284.0,1134.0,1418.0,1396.0,202.0
+2014,Third Circuit,Abuse and Neglect,432.0,172.0,604.0,303.0,574.0
+2014,Third Circuit,Other Childrenâ€™s Referral,65.0,31.0,96.0,33.0,63.0
+2014,Third Circuit,Total Childrenâ€™s Referrals,1163.0,2724.0,3887.0,3008.0,879.0
+2014,Third Circuit,Children on Status,,,,,
+2014,Third Circuit,Probation,316.0,146.0,462.0,192.0,270.0
+2014,Third Circuit,Protective Supervision,222.0,140.0,362.0,141.0,221.0
+2014,Third Circuit,Family Supervision,200.0,28.0,228.0,7.0,221.0
+2014,Third Circuit,Foster Custody,204.0,33.0,237.0,11.0,226.0
+2014,Third Circuit,Permanent Custody,145.0,2.0,147.0,7.0,140.0
+2014,Third Circuit,Other Status,226.0,109.0,335.0,30.0,305.0
+2014,Third Circuit,Total Children on Status,1313.0,458.0,1771.0,388.0,1383.0
+2014,Fifth Circuit,Case Type,,,,,
+2014,Fifth Circuit,TOTAL CASES,5398.0,2240.0,7638.0,1872.0,5766.0
+2014,Fifth Circuit,Marital Actions and Proceedings,,,,,
+2014,Fifth Circuit,Divorce,644.0,230.0,874.0,151.0,723.0
+2014,Fifth Circuit,Annulment,1.0,,1.0,,1.0
+2014,Fifth Circuit,Separation,10.0,,10.0,1.0,9.0
+2014,Fifth Circuit,Total Marital Actions,655.0,230.0,885.0,152.0,733.0
+2014,Fifth Circuit,Civil Union Actions and Proceedings,1.0,1.0,1.0,1.0,1.0
+2014,Fifth Circuit,Uniform Interstate Family Support,128.0,24.0,152.0,17.0,135.0
+2014,Fifth Circuit,Adoption Proceedings,101.0,22.0,123.0,13.0,110.0
+2014,Fifth Circuit,Parental Proceedings,499.0,62.0,561.0,7.0,554.0
+2014,Fifth Circuit,Domestic Abuse Protective Orders (Ch. 586),79.0,276.0,355.0,179.0,176.0
+2014,Fifth Circuit,Miscellaneous Proceedings,,,,,
+2014,Fifth Circuit,Hospital Admission,134.0,47.0,181.0,35.0,146.0
+2014,Fifth Circuit,Habeas Corpus,,,,,
+2014,Fifth Circuit,Civil,465.0,197.0,662.0,123.0,539.0
+2014,Fifth Circuit,Guardianship of the Person,177.0,46.0,223.0,11.0,212.0
+2014,Fifth Circuit,Other Miscellaneous,123.0,3.0,126.0,,126.0
+2014,Fifth Circuit,Total Miscellaneous Proceedings,899.0,293.0,1192.0,169.0,1023.0
+2014,Fifth Circuit,Criminal Actions,558.0,230.0,788.0,214.0,574.0
+2014,Fifth Circuit,Childrenâ€™s Referrals,,,,,
+2014,Fifth Circuit,Law Violation,980.0,365.0,1345.0,471.0,874.0
+2014,Fifth Circuit,Traffic,181.0,68.0,249.0,62.0,187.0
+2014,Fifth Circuit,Status Offense,1152.0,628.0,1780.0,514.0,1266.0
+2014,Fifth Circuit,Abuse and Neglect,90.0,39.0,129.0,51.0,78.0
+2014,Fifth Circuit,Other Childrenâ€™s Referral,76.0,2.0,78.0,22.0,56.0
+2014,Fifth Circuit,Total Childrenâ€™s Referrals,2479.0,1102.0,3581.0,1120.0,2461.0
+2014,Fifth Circuit,Children on Status,,,,,
+2014,Fifth Circuit,Probation,261.0,86.0,347.0,43.0,462.0
+2014,Fifth Circuit,Protective Supervision,62.0,12.0,74.0,5.0,69.0
+2014,Fifth Circuit,Family Supervision,23.0,12.0,35.0,2.0,33.0
+2014,Fifth Circuit,Foster Custody,60.0,35.0,95.0,24.0,71.0
+2014,Fifth Circuit,Permanent Custody,17.0,,17.0,7.0,10.0
+2014,Fifth Circuit,Other Status,,42.0,42.0,9.0,33.0
+2014,Fifth Circuit,Total Children on Status,423.0,194.0,617.0,155.0,462.0

@@ -1835,7 +1835,6 @@ Year,Circuit,Type of Action,Pending at Start,Filed,Total Caseload,Terminated,Pen
 2015,Fifth Circuit,Disorderly Conduct,2.0,1.0,3.0,1.0,2.0
 2015,Fifth Circuit,All Other Offenses (Except Traffic),288.0,61.0,349.0,66.0,283.0
 2015,Fifth Circuit,Traffic Offenses,38.0,38.0,76.0,17.0,59.0
-2014,First Circuit,Data,,,,,
 2013,First Circuit,TOTAL CASES,30176.0,11494.0,41670.0,9085.0,32585.0
 2013,First Circuit,Civil Actions,6991.0,3277.0,10268.0,2467.0,7801.0
 2013,First Circuit,Contract,1160.0,450.0,1610.0,473.0,1137.0
@@ -5180,3 +5179,225 @@ Year,Circuit,Type of Action,Pending at Start,Filed,Total Caseload,Terminated,Pen
 1998,Fifth Circuit,Disorderly Conduct,1.0,,1.0,,1.0
 1998,Fifth Circuit,All Other Offenses (Except Traffic),26.0,65.0,91.0,59.0,32.0
 1998,Fifth Circuit,Traffic Offenses,3.0,3.0,6.0,2.0,1.0
+2014,First Circuit,TOTAL CASES,31699.0,8074.0,39773.0,6290.0,33483.0
+2014,First Circuit,Civil Actions,,,,,
+2014,First Circuit,Contract,1073.0,397.0,1470.0,466.0,1004.0
+2014,First Circuit,Motor Vehicle Tort,662.0,432.0,1094.0,364.0,730.0
+2014,First Circuit,Assault & Battery,38.0,3.0,41.0,0.0,41.0
+2014,First Circuit,Construction Defect,28.0,7.0,35.0,10.0,25.0
+2014,First Circuit,Medical Malpractice,66.0,27.0,93.0,22.0,71.0
+2014,First Circuit,Legal Malpractice,21.0,3.0,24.0,9.0,15.0
+2014,First Circuit,Product Liability,16.0,3.0,19.0,11.0,8.0
+2014,First Circuit,Other Non-Vehicle Tort,587.0,332.0,919.0,273.0,646.0
+2014,First Circuit,Condemnation,10.0,1.0,11.0,1.0,10.0
+2014,First Circuit,Foreclosure,3723.0,1197.0,4920.0,970.0,3950.0
+2014,First Circuit,Agency Appeal,114.0,93.0,207.0,116.0,91.0
+2014,First Circuit,Declaratory Judgment,161.0,76.0,237.0,60.0,177.0
+2014,First Circuit,Agreement of Sale Foreclosure,10.0,1.0,11.0,1.0,10.0
+2014,First Circuit,Other Civil Action,1062.0,424.0,1486.0,439.0,1047.0
+2014,First Circuit,Probate Proceedings,,,,,
+2014,First Circuit,Probate Intestate,710.0,85.0,795.0,17.0,778.0
+2014,First Circuit,Special Administration,3244.0,324.0,3568.0,31.0,3537.0
+2014,First Circuit,Small Estate,33.0,8.0,41.0,7.0,34.0
+2014,First Circuit,Informal Will,2986.0,278.0,3264.0,17.0,3247.0
+2014,First Circuit,Other,633.0,83.0,716.0,22.0,694.0
+2014,First Circuit,Conservatorship/Guardianship Proceedings,,,,,
+2014,First Circuit,Conservatorship,843.0,134.0,977.0,36.0,941.0
+2014,First Circuit,Guardianship,4303.0,0.0,4303.0,29.0,4274.0
+2014,First Circuit,Trust Proceedings,,,,,
+2014,First Circuit,Land Court,535.0,240.0,775.0,194.0,581.0
+2014,First Circuit,Tax Appeal Court,827.0,289.0,1116.0,228.0,888.0
+2014,First Circuit,Mechanicâ€™s and Materialmanâ€™s Lien,77.0,25.0,102.0,20.0,82.0
+2014,First Circuit,Other Special Proceedings,828.0,1138.0,1966.0,921.0,1045.0
+2014,First Circuit,Criminal Actions,,,,,
+2014,First Circuit,Part I,3414.0,1206.0,4620.0,1042.0,3578.0
+2014,First Circuit,Murder & Non-Negligent Manslaughter,64.0,31.0,95.0,18.0,77.0
+2014,First Circuit,Negligent Homicide,47.0,6.0,53.0,12.0,41.0
+2014,First Circuit,Forcible Rape,33.0,9.0,42.0,4.0,38.0
+2014,First Circuit,Robbery,303.0,127.0,430.0,108.0,322.0
+2014,First Circuit,Aggravated Assault,173.0,269.0,442.0,229.0,213.0
+2014,First Circuit,Burglary,580.0,157.0,737.0,190.0,547.0
+2014,First Circuit,Larceny-Theft,1250.0,389.0,1639.0,356.0,1283.0
+2014,First Circuit,Auto Theft,465.0,157.0,622.0,146.0,476.0
+2014,First Circuit,Part II,3773.0,974.0,4747.0,906.0,3841.0
+2014,First Circuit,Other Assaults,357.0,48.0,405.0,56.0,349.0
+2014,First Circuit,Arson,37.0,21.0,58.0,15.0,43.0
+2014,First Circuit,Forgery and Counterfeiting,217.0,36.0,253.0,37.0,216.0
+2014,First Circuit,Fraud,190.0,6.0,196.0,20.0,176.0
+2014,First Circuit,Vandalism,106.0,18.0,124.0,13.0,111.0
+2014,First Circuit,Weapons,115.0,25.0,140.0,29.0,111.0
+2014,First Circuit,Prostitution,11.0,1.0,20.0,4.0,16.0
+2014,First Circuit,Sex Offenses,201.0,58.0,259.0,59.0,200.0
+2014,First Circuit,Narcotic Drug Laws,1122.0,219.0,1341.0,334.0,1164.0
+2014,First Circuit,Liquor Laws,85.0,10.0,95.0,12.0,83.0
+2014,First Circuit,Disorderly Conduct,19.0,2.0,21.0,5.0,16.0
+2014,First Circuit,Traffic Offenses,154.0,35.0,189.0,46.0,143.0
+2014,Second Circuit,TOTAL CASES,6815.0,2136.0,8951.0,2086.0,6865.0
+2014,Second Circuit,Civil Actions,,,,,
+2014,Second Circuit,Contract,232.0,92.0,324.0,116.0,208.0
+2014,Second Circuit,Motor Vehicle Tort,123.0,52.0,174.0,68.0,106.0
+2014,Second Circuit,Assault & Battery,3.0,2.0,5.0,1.0,4.0
+2014,Second Circuit,Construction Defect,5.0,2.0,7.0,2.0,5.0
+2014,Second Circuit,Medical Malpractice,9.0,6.0,15.0,3.0,12.0
+2014,Second Circuit,Legal Malpractice,2.0,2.0,4.0,0.0,4.0
+2014,Second Circuit,Product Liability,16.0,5.0,21.0,9.0,12.0
+2014,Second Circuit,Other Non-Vehicle Tort,154.0,71.0,225.0,65.0,160.0
+2014,Second Circuit,Condemnation,16.0,8.0,24.0,13.0,11.0
+2014,Second Circuit,Foreclosure,1283.0,405.0,1688.0,739.0,949.0
+2014,Second Circuit,Agency Appeal,29.0,3.0,32.0,1.0,31.0
+2014,Second Circuit,Declaratory Judgment,161.0,61.0,222.0,21.0,201.0
+2014,Second Circuit,Agreement of Sale Foreclosure,7.0,6.0,13.0,4.0,9.0
+2014,Second Circuit,Other Civil Action,206.0,99.0,305.0,89.0,216.0
+2014,Second Circuit,Probate Proceedings,,,,,
+2014,Second Circuit,Probate Intestate,86.0,14.0,100.0,3.0,97.0
+2014,Second Circuit,Probate Testate,129.0,11.0,140.0,5.0,135.0
+2014,Second Circuit,Special Administration,537.0,67.0,604.0,19.0,585.0
+2014,Second Circuit,Small Estate,30.0,7.0,37.0,19.0,18.0
+2014,Second Circuit,Informal Will,470.0,44.0,514.0,32.0,482.0
+2014,Second Circuit,Other,248.0,96.0,344.0,62.0,282.0
+2014,Second Circuit,Conservatorship/Guardianship Proceedings,,,,,
+2014,Second Circuit,Conservatorship,207.0,32.0,239.0,0.0,239.0
+2014,Second Circuit,Guardianship,407.0,0.0,407.0,4.0,403.0
+2014,Second Circuit,Trust Proceedings,,,,,
+2014,Second Circuit,Land Court,138.0,9.0,147.0,1.0,146.0
+2014,Second Circuit,Miscellaneous Proceedings,,,,,
+2014,Second Circuit,Mechanicâ€™s and Materialmanâ€™s Lien,80.0,16.0,96.0,6.0,90.0
+2014,Second Circuit,Other Special Proceedings,513.0,102.0,615.0,16.0,599.0
+2014,Second Circuit,Criminal Actions,,,,,
+2014,Second Circuit,Part I,909.0,480.0,1389.0,424.0,965.0
+2014,Second Circuit,Murder & Non-Negligent Manslaughter,14.0,6.0,20.0,3.0,17.0
+2014,Second Circuit,Negligent Homicide,4.0,4.0,8.0,2.0,6.0
+2014,Second Circuit,Forcible Rape,24.0,3.0,27.0,5.0,22.0
+2014,Second Circuit,Robbery,125.0,105.0,230.0,71.0,159.0
+2014,Second Circuit,Aggravated Assault,197.0,33.0,230.0,71.0,159.0
+2014,Second Circuit,Burglary,435.0,214.0,649.0,184.0,465.0
+2014,Second Circuit,Auto Theft,98.0,56.0,154.0,89.0,65.0
+2014,Second Circuit,Part II,924.0,476.0,1400.0,411.0,989.0
+2014,Second Circuit,Other Assaults,11.0,3.0,14.0,6.0,8.0
+2014,Second Circuit,Arson,11.0,3.0,14.0,6.0,8.0
+2014,Second Circuit,Forgery and Counterfeiting,72.0,19.0,91.0,13.0,78.0
+2014,Second Circuit,Fraud,99.0,33.0,132.0,17.0,115.0
+2014,Second Circuit,Stolen Property,7.0,2.0,9.0,1.0,8.0
+2014,Second Circuit,Vandalism,25.0,8.0,33.0,12.0,21.0
+2014,Second Circuit,Weapons,52.0,20.0,72.0,29.0,43.0
+2014,Second Circuit,Prostitution,6.0,1.0,7.0,2.0,5.0
+2014,Second Circuit,Sex Offenses,26.0,23.0,49.0,13.0,36.0
+2014,Second Circuit,Narcotic Drug Laws,413.0,60.0,473.0,173.0,300.0
+2014,Second Circuit,Liquor Laws,9.0,10.0,19.0,2.0,17.0
+2014,Second Circuit,Disorderly Conduct,4.0,1.0,5.0,2.0,3.0
+2014,Second Circuit,All Other Offenses (Except Traffic),155.0,102.0,257.0,79.0,178.0
+2014,Second Circuit,Traffic Offenses,14.0,8.0,22.0,8.0,14.0
+2014,Third Circuit,TOTAL CASES,7782.0,2415.0,10197.0,2222.0,7975.0
+2014,Third Circuit,Civil Actions,,,,,
+2014,Third Circuit,Contract,273.0,82.0,355.0,149.0,206.0
+2014,Third Circuit,Motor Vehicle Tort,126.0,74.0,200.0,74.0,126.0
+2014,Third Circuit,Assault & Battery,14.0,2.0,16.0,9.0,8.0
+2014,Third Circuit,Construction Defect,2.0,2.0,4.0,2.0,2.0
+2014,Third Circuit,Medical Malpractice,11.0,7.0,18.0,3.0,15.0
+2014,Third Circuit,Legal Malpractice,3.0,0.0,3.0,0.0,3.0
+2014,Third Circuit,Product Liability,8.0,3.0,11.0,8.0,5.0
+2014,Third Circuit,Other Non-Vehicle Tort,137.0,62.0,199.0,63.0,136.0
+2014,Third Circuit,Condemnation,8.0,9.0,17.0,1.0,16.0
+2014,Third Circuit,Foreclosure,1778.0,589.0,2367.0,799.0,1568.0
+2014,Third Circuit,Agency Appeal,40.0,17.0,57.0,23.0,34.0
+2014,Third Circuit,Declaratory Judgment,51.0,25.0,76.0,23.0,53.0
+2014,Third Circuit,Agreement of Sale Foreclosure,0.0,2.0,2.0,0.0,2.0
+2014,Third Circuit,Other Civil Action,225.0,95.0,320.0,100.0,220.0
+2014,Third Circuit,Probate Proceedings,,,,,
+2014,Third Circuit,Probate Intestate,61.0,0.0,61.0,1.0,60.0
+2014,Third Circuit,Probate Testate,52.0,10.0,62.0,1.0,61.0
+2014,Third Circuit,Special Administration,592.0,184.0,776.0,51.0,725.0
+2014,Third Circuit,Small Estate,28.0,6.0,34.0,29.0,5.0
+2014,Third Circuit,Informal Will,286.0,30.0,316.0,53.0,263.0
+2014,Third Circuit,Other,141.0,85.0,226.0,53.0,173.0
+2014,Third Circuit,Conservatorship/Guardianship Proceedings,,,,,
+2014,Third Circuit,Conservatorship/Guardianship,56.0,6.0,61.0,1.0,60.0
+2014,Third Circuit,Conservatorship,221.0,21.0,242.0,7.0,235.0
+2014,Third Circuit,Guardianship,505.0,0.0,505.0,6.0,499.0
+2014,Third Circuit,Trust Proceedings,,,,,
+2014,Third Circuit,Land Court,74.0,14.0,88.0,4.0,84.0
+2014,Third Circuit,Miscellaneous Proceedings,,,,,
+2014,Third Circuit,Mechanicâ€™s and Materialmanâ€™s Lien,66.0,22.0,88.0,10.0,78.0
+2014,Third Circuit,Other Special Proceedings,379.0,93.0,472.0,47.0,425.0
+2014,Third Circuit,Criminal Actions,,,,,
+2014,Third Circuit,Part I,1017.0,370.0,1387.0,296.0,1091.0
+2014,Third Circuit,Murder & Non-Negligent Manslaughter,23.0,12.0,35.0,4.0,31.0
+2014,Third Circuit,Negligent Homicide,9.0,2.0,11.0,5.0,6.0
+2014,Third Circuit,Forcible Rape,10.0,0.0,10.0,4.0,6.0
+2014,Third Circuit,Robbery,39.0,20.0,59.0,10.0,49.0
+2014,Third Circuit,Aggravated Assault,244.0,87.0,331.0,70.0,261.0
+2014,Third Circuit,Burglary,177.0,80.0,257.0,63.0,194.0
+2014,Third Circuit,Larceny-Theft,428.0,135.0,563.0,109.0,454.0
+2014,Third Circuit,Auto Theft,87.0,34.0,121.0,17.0,104.0
+2014,Third Circuit,Part II,1630.0,587.0,2217.0,454.0,1763.0
+2014,Third Circuit,Other Assaults,82.0,41.0,123.0,21.0,102.0
+2014,Third Circuit,Arson,22.0,19.0,41.0,20.0,21.0
+2014,Third Circuit,Forgery and Counterfeiting,71.0,18.0,89.0,13.0,76.0
+2014,Third Circuit,Fraud,70.0,10.0,80.0,9.0,71.0
+2014,Third Circuit,Stolen Property,7.0,7.0,14.0,1.0,13.0
+2014,Third Circuit,Vandalism,68.0,12.0,80.0,9.0,71.0
+2014,Third Circuit,Weapons,76.0,40.0,116.0,21.0,95.0
+2014,Third Circuit,Prostitution,1.0,0.0,1.0,0.0,1.0
+2014,Third Circuit,Sex Offenses,41.0,4.0,45.0,15.0,30.0
+2014,Third Circuit,Narcotic Drug Laws,715.0,228.0,943.0,184.0,759.0
+2014,Third Circuit,Liquor Laws,2.0,1.0,3.0,1.0,2.0
+2014,Third Circuit,Disorderly Conduct,4.0,1.0,5.0,2.0,3.0
+2014,Third Circuit,All Other Offenses (Except Traffic),364.0,167.0,531.0,121.0,410.0
+2014,Third Circuit,Traffic Offenses,58.0,19.0,77.0,17.0,60.0
+2014,Fifth Circuit,TOTAL CASES,4820.0,870.0,5690.0,574.0,5116.0
+2014,Fifth Circuit,Civil Actions,,,,,
+2014,Fifth Circuit,Contract,211.0,29.0,240.0,19.0,221.0
+2014,Fifth Circuit,Motor Vehicle Tort,76.0,21.0,97.0,7.0,90.0
+2014,Fifth Circuit,Assault & Battery,5.0,1.0,6.0,1.0,5.0
+2014,Fifth Circuit,Construction Defect,5.0,0.0,5.0,0.0,5.0
+2014,Fifth Circuit,Medical Malpractice,5.0,3.0,8.0,3.0,5.0
+2014,Fifth Circuit,Legal Malpractice,2.0,0.0,2.0,1.0,1.0
+2014,Fifth Circuit,Product Liability,6.0,1.0,7.0,1.0,6.0
+2014,Fifth Circuit,Other Non-Vehicle Tort,90.0,26.0,116.0,13.0,103.0
+2014,Fifth Circuit,Condemnation,4.0,1.0,5.0,1.0,4.0
+2014,Fifth Circuit,Foreclosure,490.0,149.0,639.0,127.0,512.0
+2014,Fifth Circuit,Agency Appeal,27.0,7.0,34.0,1.0,33.0
+2014,Fifth Circuit,Declaratory Judgment,6.0,0.0,6.0,2.0,4.0
+2014,Fifth Circuit,Agreement of Sale Foreclosure,,,,,
+2014,Fifth Circuit,Other Civil Action,156.0,44.0,200.0,20.0,180.0
+2014,Fifth Circuit,Probate Proceedings,,,,,
+2014,Fifth Circuit,Probate Intestate,71.0,0.0,71.0,1.0,70.0
+2014,Fifth Circuit,Probate Testate,145.0,7.0,152.0,1.0,151.0
+2014,Fifth Circuit,Special Administration,189.0,52.0,241.0,8.0,233.0
+2014,Fifth Circuit,Small Estate,13.0,13.0,26.0,12.0,14.0
+2014,Fifth Circuit,Informal Will,110.0,6.0,116.0,2.0,114.0
+2014,Fifth Circuit,Other,264.0,28.0,292.0,2.0,290.0
+2014,Fifth Circuit,Conservatorship/Guardianship Proceedings,,,,,
+2014,Fifth Circuit,Conservatorship/Guardianship,30.0,5.0,35.0,1.0,34.0
+2014,Fifth Circuit,Conservatorship,73.0,4.0,77.0,4.0,73.0
+2014,Fifth Circuit,Guardianship,230.0,5.0,235.0,3.0,227.0
+2014,Fifth Circuit,Trust Proceedings,,,,,
+2014,Fifth Circuit,Trust Proceedings,33.0,3.0,36.0,,36.0
+2014,Fifth Circuit,Miscellaneous Proceedings,,,,,
+2014,Fifth Circuit,Mechanicâ€™s and Materialmanâ€™s Lien,35.0,4.0,39.0,2.0,37.0
+2014,Fifth Circuit,Other Special Proceedings,663.0,45.0,708.0,10.0,698.0
+2014,Fifth Circuit,Criminal Actions,,,,,
+2014,Fifth Circuit,Part I,684.0,180.0,864.0,145.0,719.0
+2014,Fifth Circuit,Murder & Non-Negligent Manslaughter,16.0,5.0,21.0,2.0,19.0
+2014,Fifth Circuit,Negligent Homicide,5.0,5.0,10.0,1.0,9.0
+2014,Fifth Circuit,Forcible Rape,18.0,0.0,18.0,1.0,17.0
+2014,Fifth Circuit,Robbery,25.0,12.0,37.0,8.0,29.0
+2014,Fifth Circuit,Aggravated Assault,168.0,40.0,208.0,26.0,182.0
+2014,Fifth Circuit,Burglary,137.0,32.0,169.0,6.0,163.0
+2014,Fifth Circuit,Larceny-Theft,263.0,71.0,334.0,61.0,273.0
+2014,Fifth Circuit,Auto Theft,50.0,15.0,65.0,7.0,58.0
+2014,Fifth Circuit,Part II,1169.0,236.0,1405.0,191.0,1214.0
+2014,Fifth Circuit,Other Assaults,82.0,16.0,98.0,18.0,80.0
+2014,Fifth Circuit,Arson,12.0,3.0,15.0,2.0,13.0
+2014,Fifth Circuit,Forgery and Counterfeiting,33.0,8.0,41.0,6.0,35.0
+2014,Fifth Circuit,Fraud,41.0,6.0,47.0,4.0,43.0
+2014,Fifth Circuit,Stolen Property,3.0,3.0,6.0,1.0,5.0
+2014,Fifth Circuit,Vandalism,18.0,4.0,22.0,3.0,19.0
+2014,Fifth Circuit,Weapons,77.0,9.0,86.0,9.0,77.0
+2014,Fifth Circuit,Prostitution,1.0,0.0,1.0,0.0,1.0
+2014,Fifth Circuit,Sex Offenses,50.0,17.0,67.0,13.0,54.0
+2014,Fifth Circuit,Narcotic Drug Laws,428.0,71.0,499.0,50.0,449.0
+2014,Fifth Circuit,Liquor Laws,1.0,0.0,1.0,0.0,1.0
+2014,Fifth Circuit,Disorderly Conduct,2.0,0.0,2.0,0.0,2.0
+2014,Fifth Circuit,All Other Offenses (Except Traffic),350.0,76.0,426.0,63.0,363.0
+2014,Fifth Circuit,Traffic Offenses,37.0,26.0,63.0,15.0,48.0
