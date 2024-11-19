@@ -1,3 +1,3 @@
 # Final Data for Forecasting
 
-**Including predictors and target caseloads**
+**Data includes predictors and target caseload. Caseloads can be filtered based on year and circuit.**
