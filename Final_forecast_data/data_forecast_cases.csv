@@ -662,18 +662,18 @@ Year,Circuit,Type of Action,Pending at Start,Filed,Total Caseload,Terminated,Pen
 2023,Third Circuit,Adoption Proceedings,24,56,80,17,63
 2023,Third Circuit,Marital Actions and Proceedings,789,577,1366,490,876
 2023,Third Circuit,Parental Proceedings,574,234,808,189,619
-2024,Fifth Circuit,Adoption Proceedings,-1,-1,-1,-1,-1
+2024,Fifth Circuit,Adoption Proceedings,-1,22,-1,-1,-1
 2024,Fifth Circuit,Marital Actions and Proceedings,-1,149,-1,-1,-1
-2024,Fifth Circuit,Parental Proceedings,-1,-1,-1,-1,-1
-2024,First Circuit,Adoption Proceedings,-1,-1,-1,-1,-1
+2024,Fifth Circuit,Parental Proceedings,-1,73,-1,-1,-1
+2024,First Circuit,Adoption Proceedings,-1,278,-1,-1,-1
 2024,First Circuit,Marital Actions and Proceedings,-1,2970,-1,-1,-1
-2024,First Circuit,Parental Proceedings,-1,-1,-1,-1,-1
-2024,Second Circuit,Adoption Proceedings,-1,-1,-1,-1,-1
+2024,First Circuit,Parental Proceedings,-1,579,-1,-1,-1
+2024,Second Circuit,Adoption Proceedings,-1,43,-1,-1,-1
 2024,Second Circuit,Marital Actions and Proceedings,-1,439,-1,-1,-1
-2024,Second Circuit,Parental Proceedings,-1,-1,-1,-1,-1
-2024,Third Circuit,Adoption Proceedings,-1,-1,-1,-1,-1
+2024,Second Circuit,Parental Proceedings,-1,143,-1,-1,-1
+2024,Third Circuit,Adoption Proceedings,-1,67,-1,-1,-1
 2024,Third Circuit,Marital Actions and Proceedings,-1,515,-1,-1,-1
-2024,Third Circuit,Parental Proceedings,-1,-1,-1,-1,-1
+2024,Third Circuit,Parental Proceedings,-1,212,-1,-1,-1
 1998,First Circuit,Traffic Violations,580128,371158,951286,324584,626702
 1998,Second Circuit,Traffic Violations,58236,53494,111730,47167,64563
 1998,Third Circuit,Traffic Violations,12145,50763,62908,54223,8685
