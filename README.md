@@ -14,8 +14,8 @@ There are a number of proximate, concrete project goals. They include the follow
 * Generate 5 year projections for caseloads in each ciruit and in the appellate courts.
 * Generate 5-year projections for time to disposition in the trial courts and time to decision in appellate courts.
 
-### Documentation
-Documentation can be found on the [wiki](https://github.com/adamcohen3/caseload_forecasting/wiki).
+### Documentation and Resources
+Documentation and resources can be found on the [wiki](https://github.com/adamcohen3/caseload_forecasting/wiki).
 
 ### Data
 [Use this space to explain how data are organized.]
