@@ -1,6 +1,6 @@
 # Final Data for Forecasting
 
-This repository contains organized data for forecasting. The dataset includes predictors and caseload information, which can be filtered by:
+This folder contains organized data for forecasting. The dataset includes predictors and caseload information, which can be filtered by:
 
 - **Year**
 - **Circuit**
