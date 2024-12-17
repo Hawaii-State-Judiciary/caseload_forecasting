@@ -5,7 +5,7 @@ This folder contains organized data for forecasting. The dataset includes predic
 - **Year**
 - **Circuit**
 
-## Included File
+## Included Files
 
 - **`court_historical_data.csv`**:  
   This file is a consolidated dataset created from the files in the **merged** folder, with reordered and merged data for ease of use.
