@@ -1,5 +1,16 @@
 # Final Data for Forecasting
 
-**Data includes predictors and caseload data. Caseload data can be filtered based on year and circuit.**
+This repository contains organized data for forecasting. The dataset includes predictors and caseload information, which can be filtered by:
 
-File court_historical_data.csv includes all data in folder **merged** after reordering and merging.
+- **Year**
+- **Circuit**
+
+## Included File
+
+- **`court_historical_data.csv`**:  
+  This file is a consolidated dataset created from the files in the **merged** folder, with reordered and merged data for ease of use.
+- **`SocioEconomic_data.csv`**:  
+  This file inclludes predictors historical and projections up to 2027.
+
+## Filtering Caseload Data
+Caseload data can be easily filtered by year or circuit for targeted analysis.
