@@ -2,6 +2,6 @@
 
 Here, we investigate various timeseries methods including:
 
-- **ARIMA**
-- **VAR**
+- **ARIMA models**
+- **Vector Autoregressive (VAR) model**
 - **etc.**
